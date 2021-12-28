@@ -58,10 +58,10 @@
 -	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions".
 -	Senior mentor, Xi'an Jiaotong-Liverpool University Affiliated School
 
-## Interesting experience in 2021
+# Interesting experience in 2021
 <table border="10">
   <tr>
-    <th>Number</th>
+    <th>Issues</th>
     <th>Details</th>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
   </tr>
      <tr>
     <td>Rebuilt the XJTLU Law Society</td>
-    <td>Pain but happiness</td>
+    <td>Pain but happy!!!</td>
   </tr>
      <tr>
     <td>Wrote a 347-page essay on social practice during winter vacation, but social practice did not win any awards.</td>
@@ -121,16 +121,16 @@
     <td>Someone said thanks.</td>
   </tr>
     <tr>
-    <td>I regret losing an orange cat forever because of my mistake.</td>
+    <td>I regret losing an orange cat forever because of my mistakes.</td>
     <td>Irretrievable</td>
   </tr>
    <tr>
-    <td>Carried out rights protection activities, established rights protection groups</td>
+    <td>Carried out rights protection activities, established rights protection wechat groups</td>
     <td>helped XJTLU students solve dozens of cases</td>
   </tr>
    <tr>
     <td>I contacted the four presidents of Communication Society, Chinese Debating Club, Law Society and History Club, and co-organized the Magic Academy Cup competition.</td>
-    <td>Unprecedented in history, I feel very proud of my outreach ability</td>
+    <td>Unprecedented in history, I feel very proud</td>
   </tr>
   <tr>
     <td>I successfully completed the review materials for seven courses in the Department of Biology, and friends from the Department of Biology sent me several hundred yuan hongbao.</td>
