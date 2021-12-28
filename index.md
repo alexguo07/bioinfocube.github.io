@@ -30,23 +30,23 @@
  - Law and Social Science（maybe？）
 
 # Research/Competition experiences
--	National Second Prize, CUMCM
-- Third Prize, APMCM
+-	National Second Prize, CUMCM（）
+- Third Prize, APMCM（）
 - Second prize, XJTLU research-oriented learning competition
 -	Annals of Botany，SCI journal zone 2，Seventh author
 -	Research volunteer, Environmental Chemistry Laboratory of Xi'an Jiaotong-Liverpool University,16s rDNA microbiome data analysis (qiime2, LefSe, linux)
 -	Two papers researched on the supplier's supply capability evaluation system are currently being revised under the guidance of Prof. Niu and Prof. Ma. It is expected to be completed next year and submitted to the corresponding EI journal.
+- Formal Surf Fellow, Assessment of iodine status, iodine knowledge and iodine concentration in household salt among adults living in Yangtze River Delta region, Department of Health and Environmental Sciences, Xi'an Jiaotong-Liverpool University
 -
+-Youxing Health Technology Co., Ltd., Suzhou
 -
--
--
+
 # Social activity 
 -	President of Law Society,XJTLU(Previous)；
--	Minister of Academics,iGEM club；
--	大一下和暑假期间，担任西浦 iGEM 校队和中农iGEM校队的志愿者。
--	。
--	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions" to brainwash thousands of people.
-
+-	Minister of Academics,iGEM club,XJTLU(Previous)；
+-	HP volunteer,XJTLU_CHINA2021
+-	Student Representative of bioinformatics in the Council of Schools of Science of Xi'an Jiaotong-Liverpool University (SSLC);
+-	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions".
 
 ### GHI项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
