@@ -15,13 +15,13 @@
       <p><b>Year 2, Bioinformatics</b></p>
       <p><b>Age ：20</b></p>
       <p><b>Gender ：???&nbsp(A secret makes a woman woman)</b></p>
-      <p><b>Locate:Department of Biological Sciences, Xi'an Jiaotong-Liverpool University</b></p>
+      <p><b>Locate: Department of Biological Sciences, Xi'an Jiaotong-Liverpool University</b></p>
       <p><b>Email：Jiayi.GUO20@student.xjtlu.edu.cn</b></p>
       <p><b>Wechat：kaliumkwok</b></p>
       <p><b>If you have any academic related issues，please feel free to communicate with me.</b></p>
     </td>
-    <td width="25%">
-      <img src="/dog.jpg" width="100%">      
+    <td width="20%">
+     <img src="dog.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -66,30 +66,107 @@
   </tr>
   <tr>
     <td>The number of my WeChat friends has skyrocketed</td>
-    <td>Breaking through a thousand people, I also have an extra nickname "Brother Dog"</td>
+    <td>The sum of my friends have broken through 1100, I also have an extra nickname "Dog Bro"</td>
     </tr>
   <tr>
-    <td>The number of my WeChat friends has skyrocketed</td>
-    <td>The number of my WeChat friends has skyrocketed</td>
+    <td>An "a'ba" qq group was established</td>
+    <td>I shared a lot of learning materials, answer others' questions, and I made many good friends.</td>
+  </tr>
+   <tr>
+    <td> Strongly fought against Wenhui Property and wrote a lot of things to criticize the phenomenon</td>
+    <td>I was interviewed by the University Administration Teacher five times in total.</td>
+  </tr>
+   <tr>
+    <td>Established Rhizomyidae Studio</td>
+    <td>We created a failed pixel story game during the winter vacation, and then we had the idea of ​​making the game. Although we got the team up, the plan was aborted, but there are still videos and posters left.</td>
+  </tr>
+     <tr>
+    <td>Rebuilt the XJTLU Law Society</td>
+    <td>Pain but happiness</td>
+  </tr>
+     <tr>
+    <td>Wrote a 347-page essay on social practice during winter vacation, but social practice did not win any awards.</td>
+    <td>We used this paper to participate in a research-oriented learning contest, but instead won the second prize and a prize of 3,000 yuan.</td>
+  </tr>
+     <tr>
+    <td>I confessed the sci-hub goddess Alexandra Elbakyan on Qixi Festival and donated 52.0 yuan.</td>
+    <td>removing barriers on the way of science!!!</td>
+  </tr>
+     <tr>
+    <td>The TOEFL test was postponed five or six times from the summer vacation</td>
+    <td>In the end I simply cancelled it.</td>
+  </tr>
+     <tr>
+    <td>Participated in the preaching activity of the Institute of Neurology of the Chinese Academy of Sciences</td>
+    <td>Obtained a custom red T-shirt from the Chinese Academy of Sciences mailed from Shanghai</td>
+  </tr>
+  <tr>
+    <td>Apply for the Tsinghua Neuroscience Laboratory Summer School</td>
+    <td>I was rejected, but the other party provided me with a complete recording and broadcasting class (although I did not watch it in the end)</td>
+  </tr>
+  <tr>
+    <td>A website was reorganized for the Law Society (because the articles posted in the official account are always "harmonized")</td>
+    <td>The website was abandoned after more than a month</td>
+  </tr>
+  <tr>
+    <td>Participated in the preaching activity of the Institute of Neurology of the Chinese Academy of Sciences</td>
+    <td>Obtained a custom red T-shirt from the Chinese Academy of Sciences mailed from Shanghai</td>
+  </tr>
+   <tr>
+    <td>In order to help everyone review CCT008, the Law Society has published hundreds of pages of information.I printed 800 copies because I wanted more people to read it</td>
+    <td>The driver delivered it to the wrong place and sent it to Wuxi together with the information from the Mathematics Club.</td>
+  </tr>
+    <tr>
+    <td>Before the exam, a CCT008 Q&A group was established to help others organize information and answer questions.</td>
+    <td>Someone said thanks.</td>
+  </tr>
+   <tr>
+    <td>Carried out rights protection activities, established rights protection groups</td>
+    <td>helped XJTLU students solve dozens of cases</td>
+  </tr>
+   <tr>
+    <td>I contacted the four presidents of Communication Society, Chinese Debating Club, Law Society and History Club, and co-organized the Magic Academy Cup competition.</td>
+    <td>Unprecedented in history, I feel very proud of my outreach ability</td>
+  </tr>
+  <tr>
+    <td>I successfully completed the review materials for seven courses in the Department of Biology, and friends from the Department of Biology sent me several hundred yuan hongbao.</td>
+    <td>I love my dokidoki biology family members all!!!</td>
+  </tr>
+  <tr>
+    <td>I succeeded in persuading Professor Wang to change her plan for the offline closed-book examination and turned it into an online open-book</td>
+    <td>Save countless biology students from possible low marks/td>
+  </tr>
+  <tr>
+    <td>Planned an event thanking Professor Ferdinand</td>
+    <td>He posted the gifts we gave him outside the office, he received our greeting cards and took a photo with us/td>
+  </tr>
+    <tr>
+    <td>I helped a lot of people</td>
+    <td>But I can't remember the details/td>
+  </tr>
+      <tr>
+    <td>…… </td>
+    <td>…… </td>
   </tr>
 </table>
     
     
-# Skill list
+## Skill list
 - Ps: Make all kinds of weird emoticons
 - Pr：Editing and making videos, since I used to be a Bilibili uploader.
-- Id: A two-hundred-page book of final review materials for the club has been typeset.
-- Ai：make surf posters by it
+- Id: A two-hundred-page book of final review materials for the club has been typeset by using it.
+- Ai：A surf posters was made by it
 - html：This website is built by using html and markdown.
 - Python: Data cleaning, analysis, visualization，deep learning（Still learning）
 - R:Process the statistics of biological data and draw graph, I have taken the course "Statistics and R" on edx before
+- Linux:The Ubantu virtual machine has been installed on the computer and used it to process microbiome data during the summer.
 - Strange talent: maybe a lot...
 
 ## Future outlook
 - Study more than a dozen courses in edx and coursera, complete two to three series of certificates, and make up all unsatisfied prerequisites for the Master of Data Science.
 - Keep learning mathematical modeling and data processing during winter vacation. Strive for a higher prize!
-- Kaggle practice hard, and will win the silver medal next year, and then send out EI papers (two papers are best).
-- After sending out the EI paper in hand, send it to the teacher after revising it
+- Kaggle practice hard, and strive for the silver medal next year
+- Write, revise, and improve the EI papers to be published next year
 - Hope to pass the final interview and successfully enter the iGEM team of XJTLU
 - Complete the tasks currently received in the project team, process the experimental data of the Tibet University School of Medicine, and study the fatigue speech recognition(Natural Language Processing) 
 - Get more certificates, and learn more skills (regardless of whether it comes in handy)
