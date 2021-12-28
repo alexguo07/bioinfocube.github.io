@@ -45,7 +45,7 @@
 	President of Law Society,XJTLU(Previous)；
 	Minister of Academics,iGEM club；
 	大一下和暑假期间，担任西浦 iGEM 校队和中农iGEM校队的志愿者。
-	西交利物浦大学理学院理事会（SSLC）生物信息学专业学生代表。
+	。
 	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions" to brainwash thousands of people.
 
 
