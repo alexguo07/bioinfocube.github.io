@@ -138,16 +138,15 @@
   </tr>
   <tr>
     <td>I succeeded in persuading Professor Wang to change her plan for the offline closed-book examination and turned it into an online open-book</td>
-    <td>Save countless biology students from possible low marks/td>
+    <td>Save countless biology students from possible low marks.
   </tr>
   <tr>
     <td>Planned an event thanking Professor Ferdinand</td>
-    <td>He posted the gifts we gave him outside the office, he received our greeting cards and took a photo with us/td>
+    <td>He posted the gifts we gave him outside the office, he received our greeting cards and took a photo with us. 
   </tr>
-    <tr>
-    <td>I helped a lot of people</td>
-    <td>But I can't remember the details/td>
-  </tr>
+  <tr>
+  <td>I helped a lot of people</td>
+  <td>But I can't remember the details.
       <tr>
     <td>…… </td>
     <td>…… </td>
