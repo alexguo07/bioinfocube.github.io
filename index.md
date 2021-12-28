@@ -51,23 +51,35 @@
 -	Senior mentor,Xi'an Jiaotong-Liverpool University Affiliated School
 
 ## Interesting experience in 2021
-
+<table border="10">
+  <tr>
+    <th>Number</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>The number of my WeChat friends has skyrocketed</td>
+    <td>Breaking through a thousand people, I also have an extra nickname "Brother Dog"</td>
+    </tr>
+  <tr>
+    <td>The number of my WeChat friends has skyrocketed</td>
+    <td>The number of my WeChat friends has skyrocketed</td>
+  </tr>
+</table>
     
     
 # Skill list
 - Ps: Make all kinds of weird emoticons
 - Pr：Editing and making videos, since I used to be a Bilibili uploader.
-- Id: 
-- Ai：
-- html
+- Id: A two-hundred-page book of final review materials for the club has been typeset.
+- Ai：make surf posters by it
+- html：This website is built by using html and markdown.
 - 
 ## Future outlook
-- ①Study more than a dozen courses in edx and coursera, complete two to three series of certificates, and complete all unsatisfied prerequisites for the Master of Data Science.
+- ①Study more than a dozen courses in edx and coursera, complete two to three series of certificates, and make up all unsatisfied prerequisites for the Master of Data Science.
 - ②Teach yourself in mathematical modeling during winter vacation and hit the first prize. Participate in the national competition next year, and strive for the highest prize to get a good ranking
 - ③Kaggle practice hard, and will win the silver medal next year, and then send out EI papers (two papers are best).
 - ④After sending out the EI paper in hand, send it to the teacher after revising it
 - ⑤If you are admitted to the iGEM school team, it will be even better 2022    
 
 ------
-# Thanks for you time and consideration.
-      
+# Thanks for you time and consideration for reading，also thank for the WeChat Moments that I have sent over the past year, which made me discover that I have so many memories to recall.    
