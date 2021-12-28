@@ -176,4 +176,6 @@
 - Get more certificates, and learn more skills (regardless of whether it comes in handy)
 - Become more mature and confident
 ------
-# Thanks for your time and consideration for reading，also thank for the WeChat Moments that I have sent over the past year, which made me discover that I have so many memories to recall.    
+<br>
+
+## Thanks for your time and consideration for reading，also thank for the WeChat Moments that I have sent over the past year, which made me discover that I have so many memories to recall.    
