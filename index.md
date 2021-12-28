@@ -20,7 +20,7 @@
       <p><b>Wechat：kaliumkwok</b></p>
       <p><b>If you have any academic related issues，please feel free to communicate with me.</b></p>
     </td>
-    <td width="20%">
+    <td width="40%">
      <img src="dog.jpg" width="100%">      
     </td>
   </tr>
