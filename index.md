@@ -1,13 +1,12 @@
-# **¡Hola! &emsp;¡Buenos días!&emsp;¡Buenas tardes!&emsp;¡Buenas noches!**
-## **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
+# **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
 ## Please do not abuse the puppy or overfeed it!
 ### If the puppy chases after you and wags its tail, it means affection for you.
-### Do not be afraid.You could play with it.It never bites or barks.
-
+### Do not be afraid. You could play with it. It never bites or barks.
+------
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>Jiayi Guo</h1>
+    <td width="60%">
+     <h1> <center>Jiayi Guo</center></h1>
       <p><b>Year 2, Bioinformatics</b></p>
       <p><b>Department of Biological Sciences, Xi'an Jiaotong-Liverpool University</b></p>
       <p><b>Email：Jiayi.GUO20@student.xjtlu.edu.cn</b></p>
@@ -42,11 +41,11 @@
 -
 -
 # Social activity 
-	President of Law Society,XJTLU(Previous)；
-	Minister of Academics,iGEM club；
-	大一下和暑假期间，担任西浦 iGEM 校队和中农iGEM校队的志愿者。
-	。
-	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions" to brainwash thousands of people.
+-	President of Law Society,XJTLU(Previous)；
+-	Minister of Academics,iGEM club；
+-	大一下和暑假期间，担任西浦 iGEM 校队和中农iGEM校队的志愿者。
+-	。
+-	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions" to brainwash thousands of people.
 
 
 ### GHI项目 
