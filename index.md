@@ -1,17 +1,24 @@
-# **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
+# ¡Hola, 2022!  ¡Adiós 2021!
+## **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
 ## Please do not abuse the puppy or overfeed it!
 ### If the puppy chases after you and wags its tail, it means affection for you.
 ### Do not be afraid. You could play with it. It never bites or barks.
 ------
+<div align="center" vertical-align="middle">
+<strong>Say: Thank you, cheems.</strong>
+</div>
+# Research interests
 <table border="0">
   <tr>
     <td width="60%">
      <h1> <center>Jiayi Guo</center></h1>
       <p><b>Year 2, Bioinformatics</b></p>
+      <p><b>Age ：20</b></p>
+      <p><b>Gender ：???&nbsp(A secret makes a woman woman)</b></p>
       <p><b>Department of Biological Sciences, Xi'an Jiaotong-Liverpool University</b></p>
       <p><b>Email：Jiayi.GUO20@student.xjtlu.edu.cn</b></p>
       <p><b>Wechat：kaliumkwok</b></p>
-      <p><b>If you have any academic or emotional issues，please feel free to contact me.</b></p>
+      <p><b>If you have any academic related issues，please feel free to communicate with me.</b></p>
     </td>
     <td width="25%">
       <img src="/dog.jpg" width="100%">      
@@ -34,11 +41,11 @@
 -	National Second Prize, CUMCM（）
 - Third Prize, APMCM（）
 - Second prize, XJTLU research-oriented learning competition
--	Annals of Botany，SCI journal zone 2，Seventh author
+-	《Maize (Zea mays L.) root elongation and anatomy revealed the reduced toxicity of Cd under Se amendment at molar ratio 1:1》, Annals of Botany，SCI journal zone 2，Seventh author
 -	Research volunteer, Environmental Chemistry Laboratory of Xi'an Jiaotong-Liverpool University,16s rDNA microbiome data analysis (qiime2, LefSe, linux)
 -	Two papers researched on the supplier's supply capability evaluation system are currently being revised under the guidance of Prof. Niu and Prof. Ma. It is expected to be completed next year and submitted to the corresponding EI journal.
 - Formal Surf Fellow, Assessment of iodine status, iodine knowledge and iodine concentration in household salt among adults living in Yangtze River Delta region, Department of Health and Environmental Sciences, Xi'an Jiaotong-Liverpool University
--Product testing & data research intern，Youxing Health Technology Co., Ltd., Suzhou Artificial Intelligence Industrial Park
+- Product testing & data research intern，Youxing Health Technology Co., Ltd., Suzhou Artificial Intelligence Industrial Park
 -
 
 # Social activity 
