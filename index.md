@@ -1,5 +1,5 @@
 # **¡Hola! &emsp;¡Buenos días!&emsp;¡Buenas tardes!&emsp;¡Buenas noches!**
-# **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
+## **Here is a sanctuary cube for a poor puppy who suffered from bioinfomatics lovesick syndrome.** 
 ## Please do not abuse the puppy or overfeed it!
 ### If the puppy chases after you and wags its tail, it means affection for you.
 ### Do not be afraid.You could play with it.It never bites or barks.
@@ -36,7 +36,7 @@
 - Second prize, XJTLU research-oriented learning competition
 -	Annals of Botany，SCI journal zone 2，Seventh author
 -	Research volunteer, Environmental Chemistry Laboratory of Xi'an Jiaotong-Liverpool University,16s rDNA microbiome data analysis (qiime2, LefSe, linux)
--	Two papers researched on the supplier's supply capability evaluation system are currently being revised under the guidance of Prof. Niu and Prof.Ma. It is expected to be completed next year and submitted to the corresponding EI journal.
+-	Two papers researched on the supplier's supply capability evaluation system are currently being revised under the guidance of Prof. Niu and Prof. Ma. It is expected to be completed next year and submitted to the corresponding EI journal.
 -
 -
 -
