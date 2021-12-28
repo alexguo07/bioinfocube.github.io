@@ -58,6 +58,28 @@
 -	Personal experiences and stories have been published on the WeChat public account of "XJTLU Admissions".
 -	Senior mentor, Xi'an Jiaotong-Liverpool University Affiliated School
 
+    
+# Skill list
+- Ps: Make all kinds of weird emoticons
+- Pr：Editing and making videos, since I used to be a Bilibili uploader.
+- Id: A two-hundred-page book of final review materials for the club has been typeset by using it.
+- Ai：A surf posters was made by it
+- html：This website is built by using html and markdown.
+- Python: Data cleaning, analysis, visualization，deep learning（Still learning）
+- R:Process the statistics of biological data and draw graph, I have taken the course "Statistics and R" on edx before
+- Linux:The Ubantu virtual machine has been installed on the computer and used it to process microbiome data during the summer.
+- Strange talent: maybe a lot...
+
+# Future outlook
+- Study more than a dozen courses in edx and coursera, complete two to three series of certificates, and make up all unsatisfied prerequisites for the Master of Data Science.
+- Keep learning mathematical modeling and data processing during winter vacation. Strive for a higher prize!
+- Kaggle practice hard, and strive for the silver medal next year
+- Write, revise, and improve the EI papers to be published next year
+- Hope to pass the final interview and successfully enter the iGEM team of XJTLU
+- Complete the tasks currently received in the project team, process the experimental data of the Tibet University School of Medicine, and study the fatigue speech recognition(Natural Language Processing) 
+- Get more certificates, and learn more skills (regardless of whether it comes in handy)
+- Become more mature and confident
+
 # Interesting experience in 2021
 <table border="10">
   <tr>
@@ -153,26 +175,6 @@
   </tr>
 </table>
     
-    
-## Skill list
-- Ps: Make all kinds of weird emoticons
-- Pr：Editing and making videos, since I used to be a Bilibili uploader.
-- Id: A two-hundred-page book of final review materials for the club has been typeset by using it.
-- Ai：A surf posters was made by it
-- html：This website is built by using html and markdown.
-- Python: Data cleaning, analysis, visualization，deep learning（Still learning）
-- R:Process the statistics of biological data and draw graph, I have taken the course "Statistics and R" on edx before
-- Linux:The Ubantu virtual machine has been installed on the computer and used it to process microbiome data during the summer.
-- Strange talent: maybe a lot...
 
-## Future outlook
-- Study more than a dozen courses in edx and coursera, complete two to three series of certificates, and make up all unsatisfied prerequisites for the Master of Data Science.
-- Keep learning mathematical modeling and data processing during winter vacation. Strive for a higher prize!
-- Kaggle practice hard, and strive for the silver medal next year
-- Write, revise, and improve the EI papers to be published next year
-- Hope to pass the final interview and successfully enter the iGEM team of XJTLU
-- Complete the tasks currently received in the project team, process the experimental data of the Tibet University School of Medicine, and study the fatigue speech recognition(Natural Language Processing) 
-- Get more certificates, and learn more skills (regardless of whether it comes in handy)
-- Become more mature and confident
 ------
 ## Thanks for your time and consideration for reading，also thank for the WeChat Moments that I have sent over the past year, which made me discover that I have so many memories to recall.    
