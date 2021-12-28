@@ -7,7 +7,7 @@
 <strong>Say: Thank you, cheems.</strong>
 </div>
 
-# Research interests
+# Personal information
 <table border="0">
   <tr>
     <td width="60%">
@@ -119,6 +119,10 @@
     <tr>
     <td>Before the exam, a CCT008 Q&A group was established to help others organize information and answer questions.</td>
     <td>Someone said thanks.</td>
+  </tr>
+    <tr>
+    <td>I regret losing an orange cat forever because of my mistake.</td>
+    <td>Irretrievable</td>
   </tr>
    <tr>
     <td>Carried out rights protection activities, established rights protection groups</td>
