@@ -14,7 +14,7 @@
      <h1> <center>Name: Jiayi Guo</center></h1>
       <p><b>Year 2, Bioinformatics</b></p>
       <p><b>Age ：20</b></p>
-      <p><b>Gender ：???&nbsp(A secret makes a woman woman)</b></p>
+      <p><b>Gender ：???(A secret makes a woman woman)</b></p>
       <p><b>Locate: Department of Biological Sciences, Xi'an Jiaotong-Liverpool University</b></p>
       <p><b>Email：Jiayi.GUO20@student.xjtlu.edu.cn</b></p>
       <p><b>Wechat：kaliumkwok</b></p>
@@ -176,6 +176,4 @@
 - Get more certificates, and learn more skills (regardless of whether it comes in handy)
 - Become more mature and confident
 ------
-<br>
-
 ## Thanks for your time and consideration for reading，also thank for the WeChat Moments that I have sent over the past year, which made me discover that I have so many memories to recall.    
